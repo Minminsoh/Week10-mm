@@ -1,0 +1,17 @@
+---
+title: "Tutorial10"
+author: "Min Min Soh"
+date: '2022-05-11'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(dplyr)
+library(ggplot2)
+```
+
